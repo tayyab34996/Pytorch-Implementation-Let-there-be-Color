@@ -1,0 +1,14 @@
+2025-11-26 21:36:54.679755
+Use Pretrained Weights: False
+Pretrained Model: Dogsmodel1_100
+Epoch: 1 Average Cost: 0.02136732148937882
+Epoch: 2 Average Cost: 0.005007445991837553
+Epoch: 3 Average Cost: 0.004147313864502524
+Epoch: 4 Average Cost: 0.0038814998764012546
+Epoch: 5 Average Cost: 0.0036726805614307524
+Epoch: 6 Average Cost: 0.003584277691386107
+Epoch: 7 Average Cost: 0.0035131022533667934
+Epoch: 8 Average Cost: 0.003447278725382473
+Epoch: 9 Average Cost: 0.0034119635670711948
+Epoch: 10 Average Cost: 0.0033721630112268017
+Epoch: 11 Average Cost: 0.0033513072462353325

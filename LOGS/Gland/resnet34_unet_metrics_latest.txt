@@ -1,0 +1,8 @@
+Img1reconstructed.jpg,DATASET\Gland\test\Img1.bmp,332.1838684082031,22.91701889038086
+Img2reconstructed.jpg,DATASET\Gland\test\Img2.bmp,436.6002502441406,21.729963302612305
+Img3reconstructed.jpg,DATASET\Gland\test\Img3.bmp,412.0025329589844,21.98180389404297
+Img4reconstructed.jpg,DATASET\Gland\test\Img4.bmp,399.760986328125,22.1127986907959
+Img5reconstructed.jpg,DATASET\Gland\test\Img5.bmp,373.61737060546875,22.406532287597656
+Img6reconstructed.jpg,DATASET\Gland\test\Img6.bmp,424.4638671875,21.85239601135254
+Img7reconstructed.jpg,DATASET\Gland\test\Img7.bmp,419.5223388671875,21.90325164794922
+Img8reconstructed.jpg,DATASET\Gland\test\Img8.bmp,490.7986145019531,21.221771240234375

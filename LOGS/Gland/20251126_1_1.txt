@@ -1,0 +1,6 @@
+2025-11-26 23:21:14.491152
+Use Pretrained Weights: False
+Pretrained Model: Dogsmodel1_100
+Epoch: 1 Average Cost: 0.014650272198819692
+Model saved in path: T:\Code\PYTHON\Let_Color2\colorization_pytorch\MODEL\model1_1.pth
+Average Cost: 0.011455066385678947

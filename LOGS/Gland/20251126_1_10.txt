@@ -1,0 +1,15 @@
+2025-11-26 23:24:19.640635
+Use Pretrained Weights: False
+Pretrained Model: Dogsmodel1_100
+Epoch: 1 Average Cost: 0.008645305835774966
+Epoch: 2 Average Cost: 0.0033669541722961835
+Epoch: 3 Average Cost: 0.002220863026533542
+Epoch: 4 Average Cost: 0.0017055215555176668
+Epoch: 5 Average Cost: 0.0014285901054141245
+Epoch: 6 Average Cost: 0.0012989513260046287
+Epoch: 7 Average Cost: 0.0012160295262999298
+Epoch: 8 Average Cost: 0.0011606784678796043
+Epoch: 9 Average Cost: 0.0011244709694957628
+Epoch: 10 Average Cost: 0.0010808348855269809
+Model saved in path: T:\Code\PYTHON\Let_Color2\colorization_pytorch\MODEL\model1_10.pth
+Average Cost: 0.0011658774164970964
