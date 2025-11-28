@@ -1,6 +1,5 @@
 # Ignore generated/model/log/result directories
 LOGS/
-MODEL/
 RESULT/
 
 # Python
