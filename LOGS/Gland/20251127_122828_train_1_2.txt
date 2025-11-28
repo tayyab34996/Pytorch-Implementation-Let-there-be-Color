@@ -1,5 +1,0 @@
-2025-11-27 12:28:29.000999
-Training started
-Epoch: 1 Average Cost: 0.005564639881984996
-Epoch: 2 Average Cost: 0.002061068976763636
-Model saved in path: T:\Code\PYTHON\Gui_Let_Color2\colorization_pytorch\MODEL\model1_2.pth

@@ -1,2 +1,0 @@
-file,orig_path,MSE,PSNR
-Img3.bmp,DATASET\Gland\test\Img3.bmp,6245.34619140625,10.175238437221639
