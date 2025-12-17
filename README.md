@@ -18,9 +18,3 @@ pip install -r requirements.txt
 ```powershell
 python SOURCE\main.py
 ```
-
-Notes
-- This port keeps the same architecture, activations and training loop structure
-  as the original TensorFlow implementation. It shares the original repo's
-  `DATASET`, `RESULT`, `MODEL`, and `LOGS` directories so no dataset reorganization
-  is required.
