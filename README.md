@@ -16,5 +16,5 @@ pip install -r requirements.txt
 2. Run training (same flow as original):
 
 ```powershell
-python SOURCE\main.py
+python SOURCE\gui_pyqt.py
 ```
